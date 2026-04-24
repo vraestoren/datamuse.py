@@ -1,4 +1,4 @@
-# <img src="https://www.datamuse.com/api/datamuse-logo-rgb.png" width="200" style="vertical-align:middle;" /> datamuse.py
+# <div align="center"> <img src="https://www.datamuse.com/api/datamuse-logo-rgb.png" width="200" style="vertical-align:middle;" /> datamuse.py </div>
 
 > Web-API for [Datamuse](https://www.datamuse.com/api) a word-finding query engine for developers. Find words by meaning, sound, spelling, rhyme, and linguistic relationships.
 
